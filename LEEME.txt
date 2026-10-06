@@ -1,0 +1,15 @@
+GEMINI · DESAFÍOS DE LECTURA
+
+Abrí index.html con un navegador (Chrome, Firefox, Edge o Safari).
+La página funciona sin conexión y no requiere instalaciones.
+Mantené index.html, styles.css, app.js y GEMINI.pdf en la misma carpeta.
+
+Incluye una sopa de letras con 8 pistas, un crucigrama con 8 palabras,
+3 frases con cifrado César y 2 ahorcados de 3 rondas cada uno.
+Nivel intermedio, basado exclusivamente en las 7 páginas del documento.
+Las pistas remiten a páginas del PDF y las correcciones explican las ideas.
+El botón «Leer el documento» abre una copia del material original.
+
+Se utilizó JavaScript (el lenguaje del navegador), HTML y CSS.
+El progreso se conserva al cambiar de juego mientras la página esté abierta.
+Al recargar la página se reinicia la actividad.
